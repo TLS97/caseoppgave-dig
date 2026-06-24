@@ -37,7 +37,7 @@ Naviger til prosjektmappen og bruk følgende kommando for å kjøre applikasjone
 dotnet run
 ```
 
-API-endepunktet kan testes med Swagger ved å gå til https://localhost:<port>/swagger.
+API-endepunktet kan testes med Swagger ved å gå til [https://localhost:<port>/swagger](https://localhost:<port>/swagger)
 
 ## Arkitektur
 
